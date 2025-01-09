@@ -5,11 +5,7 @@
 - **Australia:** In March 2022, the Northern Rivers region experienced significant internet outages due to unpredictable flooding, highlighting the impact of floods on power and communication infrastructure. [src link](https://www.datacenterdynamics.com/en/news/extreme-weather-causes-outages-in-the-us-and-australia/?utm_source=chatgpt.com)
 
 
-- **Africa:** Floods in urban areas can increase daily power outage minutes by a factor of 2.1 to 5.5, demonstrating the direct impact of flooding on electricity supply. 
-
-**Visual Suggestion:**
-
-- A map highlighting regions in Australia and Africa affected by flood-induced power outages.
+- **Africa:** Floods in urban areas can increase daily power outage minutes by a factor of 2.1 to 5.5, demonstrating the direct impact of flooding on electricity supply. [src link](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3176/egusphere-2024-3176.pdf?utm_source=chatgpt.com)
 
 ---
 
@@ -17,13 +13,9 @@
 
 **Increased Insurance Claims → Floods:**
 
-- **Australia:** The 2022 floods resulted in more than 240,000 insurance claims with a total value of $6 billion, marking it as the second-largest insured event in the world for that year. 
+- **Australia:** The 2022 floods resulted in more than 240,000 insurance claims with a total value of $6 billion, marking it as the second-largest insured event in the world for that year. [src link](https://insurancecouncil.com.au/resource/comprehensive-review-released-into-insurers-response-to-2022-flood/?utm_source=chatgpt.com)
 
-- **Africa:** In the first half of 2024, natural disasters in Africa led to economic losses of US$0.5 billion, with a significant portion attributed to floods. 
-
-**Visual Suggestion:**
-
-- A bar chart comparing the number of insurance claims before and after major flood events in Australia and Africa.
+- **Africa:** In the first half of 2024, natural disasters in Africa led to economic losses of US$0.5 billion, with a significant portion attributed to floods. [src link](https://www.munichre.com/en/insights/natural-disaster-and-climate-change/price-of-natural-catastrophes-in-africa.html?utm_source=chatgpt.com)
 
 ---
 
@@ -31,27 +23,16 @@
 
 **Increased Internet Usage → Floods:**
 
-- **Australia:** During the March 2022 floods, the Northern Rivers region experienced significant internet outages, indicating a disruption in communication patterns due to extreme weather events. 
-
-- **India:** In August 2024, heavy monsoon rains led to severe flooding in southern India, resulting in power outages and flight cancellations, which likely increased reliance on internet communication for information and coordination. 
-
-**Visual Suggestion:**
-
-- A line graph showing spikes in internet traffic during flood events in Australia and India.
+- **India:** In August 2024, heavy monsoon rains led to severe flooding in southern India, resulting in power outages and flight cancellations, which likely increased reliance on internet communication for information and coordination. [src link](https://apnews.com/article/387a868d36bc4f64ce8437eb3b1f6e2e?utm_source=chatgpt.com)
+  
+- **Australia:** During the March 2022 floods, the Northern Rivers region experienced significant internet outages, indicating a disruption in communication patterns due to extreme weather events. [src link](https://www.datacenterdynamics.com/en/news/extreme-weather-causes-outages-in-the-us-and-australia/?utm_source=chatgpt.com)
 
 ---
 
 ### **Slide 7: Environmental Proxies**
 
 **Tree Rings, Sediments, and Ice Cores:**
-
-- **Australia:** Studies of sediment layers have provided evidence of historical flood events, aiding in understanding long-term climate patterns.
-
-- **Africa:** Analysis of tree rings has revealed periods of drought and flood, offering insights into historical climate variability.
-
-**Visual Suggestion:**
-
-- Images of tree ring samples and sediment cores from Australia and Africa, with annotations highlighting periods of drought and flood.
+Natural and obvious
 
 ---
 
@@ -59,30 +40,8 @@
 
 **Satellite Imagery Analysis → Floods:**
 
-- **Australia:** Remote sensing technologies have been employed to assess soil moisture levels and vegetation health, crucial for drought monitoring.
-
-- **Africa:** The EU-funded Fanfar platform provides flood forecasting for West Africa, helping in early warning and disaster preparedness. 
-
-**Visual Suggestion:**
-
-- Satellite images showing pre- and post-flood landscapes in Australia and Africa.
+- **Africa:** The EU-funded Fanfar platform provides flood forecasting for West Africa, helping in early warning and disaster preparedness. [src link](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2024/natural-disaster-figures-first-half-2024.html?utm_source=chatgpt.com)
 
 ---
-
-### **Slide 9: Community and Cultural Proxies**
-
-**Social Media Activity → Floods:**
-
-- **Australia:** During the 2022 floods, communities utilized social media platforms to coordinate relief efforts and disseminate information, reflecting increased online activity in response to flooding.
-
-- **India:** In August 2024, heavy monsoon rains led to severe flooding in southern India, resulting in the closure of schools, colleges, and government offices in major cities such as Chennai and Bengaluru. 
-
-**Visual Suggestion:**
-
-- Screenshots of social media posts from community groups during flood events in Australia and India.
-
----
-
-By incorporating these specific data points and visuals, your presentation will effectively demonstrate the relationship between proxy indicators and actual flood events across different regions, enhancing the credibility and depth of your analysis.
 
  

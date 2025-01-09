@@ -44,4 +44,9 @@ Natural and obvious
 
 ---
 
+### **Slide 9: Community and Cultural Proxies**
+
+**Social Media Activity → Floods:**
+ 
+- **India:** In August 2024, heavy monsoon rains led to severe flooding in southern India, resulting in the closure of schools, colleges, and government offices in major cities such as Chennai and Bengaluru. [src link](https://apnews.com/article/387a868d36bc4f64ce8437eb3b1f6e2e?utm_source=chatgpt.com)
  
